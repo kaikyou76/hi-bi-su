@@ -99,10 +99,10 @@ export default defineConfig({
       ],
       "/coment/": [
         {
-          text: "Spring Boot開発説明",
+          text: "Struts项目环境配置",
           collapsed: false,
           items: [
-            { text: "001事前準備", link: "/coment/keikaku001" },
+            { text: "代理配置", link: "/coment/daili" },
             { text: "002プロジェクト構成案", link: "/coment/keikaku002" },
           ],
         },
