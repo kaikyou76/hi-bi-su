@@ -103,7 +103,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: "代理配置", link: "/coment/daili" },
-            { text: "002プロジェクト構成案", link: "/coment/keikaku002" },
+            { text: "代理配置2", link: "/coment/daili2" },
           ],
         },
       ],
